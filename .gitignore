@@ -237,3 +237,6 @@ __pycache__/
 
 # Temporary notebook outputs
 *.nbconvert.ipynb
+
+# refs
+refs/
