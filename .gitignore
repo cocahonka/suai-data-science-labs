@@ -187,6 +187,7 @@ cython_debug/
 # Uncomment if you want to track specific plots
 # !plots/*.png
 # !figures/*.png
+!lab5/*.svg
 
 # Temporary files
 *.tmp
